@@ -1,6 +1,6 @@
 # Doelpubliek
 
-De cursus is voorzien voor leerlingen van de 3de graad secundair onderwijs uit de richtingen:
+De cursus is voorzien voor leerlingen van het secundair onderwijs uit de richtingen:
 * Elektriciteit-Elektronica
 * Industriële wetenschappen
 * Industriële-ICT
